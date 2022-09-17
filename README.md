@@ -4,4 +4,4 @@
 ## QB Analysis
 Agressivness vs CPOE
 This shows how often a quarterback throws the ball into tight coverage and the percentage of passes they completed above or under expected.
-![Agressiveness_vs_CPOE](Week 1/Images/Agressiveness_vs_CPOE.png)
+![Agressiveness_vs_CPOE](Team_Logos/ARI.png)
