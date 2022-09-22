@@ -1,5 +1,5 @@
 # NFL-Data
-# Using data from Next Gen Stats, I created various visualizations to analzye player performance for the 2022 NFL season.
+# Using data from Next Gen Stats and Pro Football Reference, I created various visualizations to analzye player performance for the 2022 NFL season.
 
 ## QB Analysis
 # Agressivness vs CPOE
